@@ -77,4 +77,4 @@ The modified census dataset consists of approximately 7,000 data points, with ea
 * **model.pkl**: The file holding a persistent object of the predictive model used for training. Obtained using pickle library. 
 * **columns.pkl**: The file holding a persistent object of the data frame columns used for training. Obtained using pickle library. 
 * **flask-api.py**: Standalone python script used to host, and deploy model of real-time web service.
-* **zappa-settings.json**: Zappa deployment properties for sending the code to AWS Lambda 
+* **zappa-settings.json**: Zappa deployment properties for sending the code to AWS Lambda # churn-detection
