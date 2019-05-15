@@ -1,0 +1,12 @@
+{
+    "dev": { 
+    	"aws_region": "us-east-2",
+        "s3_bucket": "demo-data-zg",
+        "app_function": "flask-api.app",
+        "role_name": "headless",
+        "profile_name" :"default",
+        "role_arn":"arn:aws:iam::510066118552:role/service-role/headless",
+        "use_precompiled_packages": true,
+        "slim_handler":"true"
+    }
+}
