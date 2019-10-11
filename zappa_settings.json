@@ -5,7 +5,7 @@
         "app_function": "flask-api.app",
         "role_name": "headless",
         "profile_name" :"default",
-        "role_arn":"arn:aws:iam::510066118552:role/service-role/headless",
+        "role_arn":"arn:aws:iam::0000000:role/service-role/XXXX",
         "use_precompiled_packages": true,
         "slim_handler":"true"
     }
